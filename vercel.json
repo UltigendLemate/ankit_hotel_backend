@@ -13,6 +13,6 @@
         }
     ],
     "headers": [
-        { "for": "*", "key": "Access-Control-Allow-Origin", "value": "https://ankit-hotel.vercel.app/" } 
+        { "key": "Access-Control-Allow-Origin", "value": "https://ankit-hotel.vercel.app/" } 
       ]
   }
